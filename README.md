@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Harbee-pearl
-- 👀 I’m interested in software development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning software development in the women techsters fellowship.
 - 💞️ I’m looking to collaborate on Front-end development projects.
-- 📫 How to reach me ...You can reach me on twitter @OmoIyaRukkie. gmail- yinkaajibade97@gmail.com . linkedin - Ruqayat Ajibade
+- 📫 You can reach me on twitter @OmoIyaRukkie. 
+- gmail- yinkaajibade97@gmail.com .
+-  linkedin - Ruqayat Ajibade
 
 <!---
 Harbee-pearl/Harbee-pearl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
